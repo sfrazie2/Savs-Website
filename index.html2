@@ -12,14 +12,15 @@
 </head>
 <ahref="index.html">Savs Website
 </a>
-<h1>
-    <strong>
-        I have really enjoyed learning how to code this website!
-    </strong>
-</h1>
-<p>
-    In my final stretch at North Carolina State University, I believe I have found something that I would like to explore further. On the previous page, I mentioned an educational technology tool that I personally am passionate about, Formative. In the future, if I am employed by this company, I would like to explore how I can apply my new tech skills to this emerging technology.
-</p>
-    <img src="https://brand.ncsu.edu/assets/logos/ncstate-type-2x2-red-max"/
-
+<body>
+    <h1>
+        <strong>
+            I have really enjoyed learning how to code this website!
+        </strong>
+    </h1>
+    <p>
+        In my final stretch at North Carolina State University, I believe I have found something that I would like to explore further. On the previous page, I mentioned an educational technology tool that I personally am passionate about, Formative. In the future, if I am employed by this company, I would like to explore how I can apply my new tech skills to this emerging technology.
+    </p>
+        <img src="https://brand.ncsu.edu/assets/logos/ncstate-type-2x2-red-max"/   
+</body>
 
