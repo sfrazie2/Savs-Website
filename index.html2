@@ -10,7 +10,7 @@
     <meta name="description" content="A brief description of the author of this Website. Including place of study, year of graduation, and favorite educational technology tools." />
     <meta name="author" content="Savannah Frazier" />
 </head>
-<ahref="index.html">Savs Website
+<a href="../index.html">Return Home
 </a>
 <body>
     <h1>
@@ -21,6 +21,7 @@
     <p>
         In my final stretch at North Carolina State University, I believe I have found something that I would like to explore further. On the previous page, I mentioned an educational technology tool that I personally am passionate about, Formative. In the future, if I am employed by this company, I would like to explore how I can apply my new tech skills to this emerging technology.
     </p>
+    </body>
         <img src="https://brand.ncsu.edu/assets/logos/ncstate-type-2x2-red-max"/   
-</body>
+
 
