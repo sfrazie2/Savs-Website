@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+    <title>
+        Welcome to my Website!
+    </title>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="A brief description of the author of this Website. Including place of study, year of graduation, and favorite educational technology tools." />
+    <meta name="author" content="Savannah Frazier" />
+</head>
 <ahref="index.html">Savs Website
 </a>
 <h1>
