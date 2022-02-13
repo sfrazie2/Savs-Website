@@ -17,20 +17,33 @@
 Savannah Frazier
     </em></strong>
 </h1>
-<h2>
-    <em>
-Introduction
-    </em>
-</h2>
+<section class="introduction"
+.introduction{
+font-family:Times New Roman, sans-serif; font-size: 16px;<h2>Introduction</h2>}
+.introduction aside{background-color: red;
+width: 30%;
+float: right;
+padding: 10px;
+margin-left: 10px;
+margin-bottom: 10px;}
+@media (max-width: 991px){
+    .introduction aside{
+        background-color: white;
+        color: black;
+        float: unset;
+        width: 75%;
+        margin: 0 auto;
+        padding: 25px;
+    }
+}
+<aside>  
 <p>
 Hi! I am an undergraduate student at North Carolina State University. I am in the Learding Design and Technology program, and I will be graduating this summer, 2022.
 </p>
+</aside>
 <a href="blog.html">View My Blog
 </a>
-<h3>
-    <em>
-        Favorite Ed. Tech Tools 
-    </em>
+      <h3> Favorite Ed. Tech Tools 
     </h3>
         <ol>
             <li>Formative: I am especially fond of Formative because I personally believe it could be an online educational tool (learning management system) that could solely bridge the achievement gap between students of color and their white peers
@@ -43,5 +56,6 @@ Hi! I am an undergraduate student at North Carolina State University. I am in th
             <li>Blackboard: While Moodle is effective, I personally think the learning management system, Blackboard, is more efficient. It is easier to navigate and makes communicating with professors and peers a more seamless process all within the learning management system itself.
                     </li>
         </ol>
+    </section>
   </body>  
 </html>
