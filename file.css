@@ -7,7 +7,7 @@ h2{
     font-style: italic;
 }
 .introduction{
-font-family:'Times New Roman', Times, serif, sans-serif; font-size: 16px;<h2>Introduction</h2>}
+font-family:'Times New Roman', Times, serif, sans-serif; font-size: 16px;}
 .introduction aside{background-color: red;
 width: 30%;
 float: right;
@@ -21,11 +21,6 @@ margin-bottom: 10px;}
         float: unset;
         width: 75%;
         margin: 0 auto;
-        padding: 25px;
+        padding: 25px;   
     }
-    <aside>  
-<p>
-Hi! I am an undergraduate student at North Carolina State University. I am in the Learding Design and Technology program, and I will be graduating this summer, 2022.
-</p>
-</aside>
 }
