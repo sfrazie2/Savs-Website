@@ -1,3 +1,7 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+margin: 10px 50px;
+}
 h1{
     font-family: 'Times New Roman', Times, serif;
     color: red;
@@ -6,21 +10,13 @@ h2{
     color: black;
     font-style: italic;
 }
-.introduction{
-font-family:'Times New Roman', Times, serif, sans-serif; font-size: 16px;}
-.introduction aside{background-color: white;
+.introduction-aside{
+display: block;
+background: red
 width: 30%;
-float: right;
-padding: 10px;
-margin-left: 10px;
-margin-bottom: 10px;}
-@media (max-width: 991px){
-    .introduction aside{
-        background-color: red;
-        color: black;
-        float: unset;
-        width: 75%;
-        margin: 0 auto;
-        padding: 25px;   
-    }
+text-align: center;
+color: white;
+padding: 50px 25px;   
+border: 10px solid black;
+margin-bottom: 60px;
 }
