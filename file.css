@@ -12,7 +12,7 @@ h2{
 }
 .introduction-aside{
 display: block;
-background: red
+background-color: red;
 width: 30%;
 text-align: center;
 color: white;
