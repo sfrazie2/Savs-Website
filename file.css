@@ -13,4 +13,5 @@ p.one {
     border-right-width: 6px;
     border-bottom-width: 10px;
     border-left-width: 1px;
+    border-style: outset;
 }
