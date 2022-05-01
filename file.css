@@ -1,4 +1,9 @@
-.red{
-    background-color: red;
-    color: white;
+div {
+    height: 300px;
+    width: 400px;
+    background-color: #f5f5f5;
 }
+p {
+    height: 75%;
+    width: 75%;
+    background-color: #f5f5f5;}
