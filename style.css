@@ -1,0 +1,31 @@
+#boxes {
+    content: "";
+    display: table;
+    clear: both;
+}
+div {
+    float: left;
+    height: 470px;
+    width: 23%;
+    padding: 0 10px;
+}
+#column1 {
+    background-color: rgb(179,136,102);
+}
+#column2 {
+    background-color: #f5f5f5;
+}
+#column3 {
+    background-color: rgb(189,144,108);
+}
+blockquote {
+    float: right;
+    width: 275px;
+    font-size: 130%;
+    font-style: italic;
+    font-family: Georgia, Times, serif;
+    margin: 0px 0px 10px 10px;
+    padding: 5px;
+    border-top: 1px solid #665544;
+    border-bottom: 1px solid #665544;
+}

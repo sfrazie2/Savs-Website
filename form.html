@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel='stylesheet' href='file.css' type='text/css' /> 
+    <title>
+        JavaScript form validation - checking email
+    </title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="A brief description of the author of this Website. Including place of study, year of graduation, and favorite educational technology tools." />
+  <meta name="author" content="Savannah Frazier" /> 
+</head>
+<body onload='document.form1.text1.focus()'>
+<div class="mail">
+<h2>Input an email and Submit</h2>
+<form name="form1" action="#"> 
+<ul>
+<li><input type='text' name='text1'/></li>
+<li>&nbsp;</li>
+<li class="submit"><input type="submit" name="submit" value="Submit" onclick="ValidateEmail(document.form1.text1)"/></li>
+<li>&nbsp;</li>
+</ul>
+</form>
+</div>
+<script src="email-validation.js"></script>
+<a href="index.html">email-validation
+</a>
+</body>
+</html>
